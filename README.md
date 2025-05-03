@@ -43,3 +43,4 @@ Newspaper- priced at Rs.5
 Cadbury bar- priced at Rs. 10
 Tropicana juice- priced at Rs. 15
 
+Reference : https://medium.com/@rebsfalcao15/design-of-vending-machine-using-verilog-hdl-42cede6cf8bb
